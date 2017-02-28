@@ -99,7 +99,10 @@
 
     בנק פאגי
     https://online.pagi.co.il/
-
+            
+    בנק בינלאומי
+    https://online.fibi.co.il/wps/portal
+    
 %% בתי חולים
 
     בית חולים תל השומר
